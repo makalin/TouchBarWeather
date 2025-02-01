@@ -12,8 +12,8 @@ TouchBarWeather is a macOS application that integrates weather updates into the 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/touchbarweather.git
-    cd touchbarweather
+    git clone https://github.com/makalin/TouchBarWeather.git
+    cd TouchBarWeather
     ```
 
 2. Install dependencies:
